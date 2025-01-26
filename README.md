@@ -18,3 +18,7 @@ Let `pm create-user` bypass some checks.
 
 | ![Island](/docs/img/Island.png) | ![Thanox](/docs/img/Thanox.png) |
 |---------------------------------|---------------------------------|
+
+## Issuse
+
+https://github.com/icepony/AlwaysCreateUser/issues
