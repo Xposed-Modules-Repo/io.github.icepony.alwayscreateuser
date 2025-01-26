@@ -16,8 +16,8 @@ Let `pm create-user` bypass some checks.
 
 ## Screenshot
 
-| ![Island](/docs/img/Island.png) | ![Thanox](/docs/img/Thanox.png) |
-|---------------------------------|---------------------------------|
+![Island](https://testingcf.jsdelivr.net/gh/Xposed-Modules-Repo/io.github.icepony.alwayscreateuser@main/docs/img/Island.png) | ![Thanox](https://testingcf.jsdelivr.net/gh/Xposed-Modules-Repo/io.github.icepony.alwayscreateuser@main/docs/img/Thanox.png)
+---|---
 
 ## Issuse
 
