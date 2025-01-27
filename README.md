@@ -10,7 +10,7 @@ It overcomes limitations like:
 - "Cannot add more profiles of type android.os.usertype.profile.(MANAGED | CLONE | PRIVATE) for user
   0"
 - "Cannot add user. Maximum user limit is reached."
-- "Cannot add more managed profiles for user"[SUMMARY](SUMMARY)
+- "Cannot add more managed profiles for user"
 - "Error: couldn't create User."
 
 ## How it Works
