@@ -34,7 +34,7 @@ The module hooks methods within [
 
 | [Island](https://github.com/oasisfeng/island) | [Thanox](https://github.com/Tornaco/Thanox) |
 |-----------------------------------------------|---------------------------------------------|
-| ![Island](/docs/img/Island.png)               | ![Thanox](/docs/img/Thanox.png)             |
+| ![Island](https://testingcf.jsdelivr.net/gh/Xposed-Modules-Repo/io.github.icepony.alwayscreateuser@main/docs/img/Island.png) | ![Thanox](https://testingcf.jsdelivr.net/gh/Xposed-Modules-Repo/io.github.icepony.alwayscreateuser@main/docs/img/Thanox.png) |
 
 ### [How to Setup for Island](https://island.oasisfeng.com/setup.html#manual-setup-for-island)
 
